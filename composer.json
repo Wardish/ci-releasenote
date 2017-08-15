@@ -1,0 +1,21 @@
+{
+    "name": "wardish/ci-releasenote",
+    "description": "Auto generate Releasenote on CodeIgniter 3.x",
+    "keywords": [
+        "codeigniter",
+        "phptal"
+    ],
+    "homepage": "http://github.com/Wardish/ci-releasenote/",
+    "license": "Apache v2.0",
+    "authors": [
+        {
+            "name": "Wardish,LLC.",
+            "homepage": "https://github.com/Wardish/"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "michelf/php-markdown": "dev-lib",
+        "phptal/phptal": ">=1.3.0"
+    }
+}
